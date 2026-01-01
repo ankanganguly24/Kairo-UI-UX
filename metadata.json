@@ -1,0 +1,5 @@
+{
+  "name": "Kairo",
+  "description": "A developer-first landing page for KAIRO, a VS Code extension that generates accurate READMEs from your codebase structure.",
+  "requestFramePermissions": []
+}
